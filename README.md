@@ -46,7 +46,13 @@ If you have any questions please contact me at : mohan2036@gmail.com
 ### GitHub Prifile: [ram-sah](https://github.com/ram-sah) 
 ### Repository : [eat-da-burger](https://github.com/ram-sah/eat-da-burger)
 
-### Heroku: [Application-link](https://damp-brushlands-54954.herokuapp.com)
+## Heroku: [Application-link](https://damp-brushlands-54954.herokuapp.com)
 
 ## Application-Demo 
-(![burger](https://user-images.githubusercontent.com/64625123/90977219-b5788280-e511-11ea-838f-c68378a432c2.gif)
+![burger](https://user-images.githubusercontent.com/64625123/90977219-b5788280-e511-11ea-838f-c68378a432c2.gif)
+
+## Clip: 
+
+<img width="557" alt="burger1" src="https://user-images.githubusercontent.com/64625123/90988167-d9ae8080-e55e-11ea-8f78-75324e1dbacb.png">
+
+
