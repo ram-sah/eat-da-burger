@@ -1,12 +1,12 @@
-# Node-Express-Handlebars
+# Node Express Handlebars : Eat-da-burger
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![LanguageCount](https://img.shields.io/github/languages/count/ram-sah/Node-Express-Handlebars)](https://github.com/ram-sah/Node-Express-Handlebars)
-[![License](https://img.shields.io/github/repo-size/ram-sah/Node-Express-Handlebars?logo=gitHub)](https://github.com/ram-sah/Node-Express-Handlebars)
+[![LanguageCount](https://img.shields.io/github/languages/count/ram-sah/eat-da-burger)](https://github.com/ram-sah/eat-da-burger)
+[![License](https://img.shields.io/github/repo-size/ram-sah/eat-da-burger?logo=gitHub)](https://github.com/ram-sah/eat-da-burger)
 
 ## Description: 
 
-This project is a command-line application. 
+This project is a command-line application. Eat-Da-Burger is a restaurant application that lets users input the names of the burgers they'd like the eat. When you enter a burger's name it will generate under the To Be Eaten heading. You can Devour that burger by clicking on it. It will then populate under the Already Eaten heading. You can move back the burger you devoured simply by click.
          
 ## Table of Contents
        
@@ -44,7 +44,7 @@ This project is licensed under the MIT license.
        
 If you have any questions please contact me at : mohan2036@gmail.com
 ### GitHub Prifile: [ram-sah](https://github.com/ram-sah) 
-### Repository : [Node-Express-Handlebars](https://github.com/ram-sah/Node-Express-Handlebars)
+### Repository : [eat-da-burger](https://github.com/ram-sah/eat-da-burger)
 
 
 ## Application-Demo 

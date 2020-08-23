@@ -1,0 +1,21 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "Make and eat the burgers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ram-sah/eat-da-burger.git"
+  },
+  "author": "Ram Sah",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}

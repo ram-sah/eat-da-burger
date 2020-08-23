@@ -1,0 +1,11 @@
+body {
+  background-color: skyblue;  
+  color: #af0a0a;
+}
+header {
+  background: rgb(10, 111, 151);
+  color: whitesmoke;
+  text-align: center;
+  height: 150px;
+  padding-top: 50px;
+}
