@@ -3,10 +3,11 @@
 </header>
 
 <div class="container mt-5">
-
+    <img src="https://media.giphy.com/media/TiUiqGzH4E1A0pjmAi/giphy.gif" class="burger-img" alt="burger">   
+    <img src="https://i.gifer.com/tbb.gif" class="burger-img" alt="cat dancing">
     <div class="row">
-        <div class="col">
-            <h2>Burgers ready!</h2>
+        <div class="col"><br>
+            <h2>Burgers ready!</h2><br>
             <ul>
                 {{#each burgers}}
                 {{#unless devoured}}
@@ -15,8 +16,8 @@
                 {{/each}}
             </ul>
         </div>
-        <div class="col">
-            <h2>Devoured burgers!</h2>
+        <div class="col"><br>
+            <h2>Devoured burgers!</h2><br>
             <ul>
                 {{#each burgers}}
                 {{#if devoured}}
@@ -27,17 +28,22 @@
         </div>
     </div>
 
-    <h2 class="mt-5">Add a Burger</h2>
+    <h4 class="mt-5">Add a Burger</h4>
     <form class="create-form">
         <div class="form-group">
             <label for="ca">Buger Name:</label>
             <input type="text" id="ca" name="name">
         </div>
         <div class="form-group">
-            <label for="devoured">Devoured?</label><br>
-            <input type="radio" name="devoured" value="1" checked> Devoured!<br>
-            <input type="radio" name="devoured" value="0"> Devour
+           <h4> <label for="devoured">Devoured?</label><br></h4>
+           <h6> <input type="radio" name="devoured" value="1" checked> Devoured !
+            <input type="radio" name="devoured" value="0"> Devour !</h6>
         </div>
-        <button type="submit">Add Burger</button>
-    </form>
+        <button class="myButton" type="submit">Add Burger</button>        
+    </form>    
 </div>
+<footer>
+    <nav class="footer">
+    <div class="footer-text">&copy;Copyright-Ram Sah.</div>
+  </nav>
+</footer>
