@@ -1,8 +1,8 @@
 use burgers_db;
 
 INSERT INTO burgers (burger_name) VALUES
-	("Quinoa Veggie Burger"),
-    ("Black Bean Veggie Burger"),
+	("Veggie Burger"),
+    ("Cheese Burger"),
     ("Mushroom Cap Veggie Burger"),
-    ("Wild Rice and White Mushrooms Burger");
+    ("Ham Burger");
     SELECT * FROM burgers;

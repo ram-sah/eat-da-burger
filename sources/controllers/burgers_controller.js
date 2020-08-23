@@ -1,12 +1,9 @@
 // Packages
 const express = require('express');
-
-// Local dependencies
+// import the model, Local dependencies to use its database function
 const burger = require('../models/burger.js');
-
-// Create the routers
+// Create the routers and setup logic within those routes where required
 const router = express.Router();
-
 router.get("/", function(req, res) {
   burger.selectAll(function(data) {
     var hbsObject = {
@@ -16,7 +13,6 @@ router.get("/", function(req, res) {
     res.render("index", hbsObject);
   });
 });
-
 router.post("/api/burgers", function(req, res) {
     burger.insertOne([
       "burger_name", "devoured"
@@ -58,7 +54,5 @@ router.post("/api/burgers", function(req, res) {
       }
     });
   });
-  
-
 // Export routes for server.js to use.
 module.exports = router;
