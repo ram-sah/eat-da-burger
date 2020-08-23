@@ -1,2 +1,5 @@
 node_modules
 .DS_Store/
+public/.DS_Store
+views/partials/.DS_Store
+
