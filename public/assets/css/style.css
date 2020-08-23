@@ -1,17 +1,55 @@
 body {
   background-color: skyblue;  
   color: #af0a0a;
+  width: 1500px;
 }
 header {
   background: rgb(10, 111, 151);
   color: whitesmoke;
   text-align: center;
-  height: 150px;
-  padding-top: 50px;
+  height: 100px;
+  padding-top: 15px;
 }
 h1{
   margin-top: -25px;
   font-size: 5rem;
   text-shadow: 5px 5px gray;
 }
-
+.burger-img {
+  background-color: green; 
+  padding: 10px;
+  width: 520px;
+  height: 300px;
+  margin-right: 30px;
+}
+footer{
+  text-align: center;
+  margin: 30px;
+}
+.myButton {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:12px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+h2{
+  margin-top: 5px;  
+  text-shadow: 2px 2px gray;  
+}
+ul{
+  margin-left: -40px;
+}
