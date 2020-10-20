@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![LanguageCount](https://img.shields.io/github/languages/count/ram-sah/eat-da-burger)](https://github.com/ram-sah/eat-da-burger)
-[![License](https://img.shields.io/github/repo-size/ram-sah/eat-da-burger?logo=gitHub)](https://github.com/ram-sah/eat-da-burger)
+[![Repo](https://img.shields.io/github/repo-size/ram-sah/eat-da-burger?logo=gitHub)](https://github.com/ram-sah/eat-da-burger)
 
 ## Description: 
 
@@ -15,6 +15,8 @@ This project is a command-line application. Eat-Da-Burger is a restaurant applic
 * [Usage](#usage)
             
 * [License](#license)
+
+* [Technology-Used](#Technology-Used)
             
 * [Questions](#Questions)
 
@@ -35,6 +37,15 @@ Run 'node server.js' from Terminal
 ## License 
             
 This project is licensed under the MIT license.
+
+## Technology-Used
+
+* express-handlebars
+* express 
+* MySQL
+* JavaScript
+* CSS
+* Heroku
 
 ## Questions
             
