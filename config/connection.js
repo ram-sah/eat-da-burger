@@ -1,5 +1,6 @@
 // Set up MySQL connection.
-var mysql = require("mysql");
+// var mysql = require("mysql");
+const mysql = require("mysql2");
 let connection;
 // Hooking with JawsDB
 if (process.env.JAWSDB_URL) {
@@ -9,7 +10,7 @@ if (process.env.JAWSDB_URL) {
     host: "localhost",
     port: 3306,
     user: "root",
-    password: "password",
+    password: "",
     database: "burgers_db"
   });
 }

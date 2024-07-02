@@ -1,7 +1,7 @@
 body {
-  background-color: skyblue;  
+  background-color: skyblue;
   color: #af0a0a;
-  width: 1500px;
+  width: auto;
 }
 header {
   background: rgb(10, 111, 151);
@@ -16,7 +16,7 @@ h1{
   text-shadow: 5px 5px gray;
 }
 .burger-img {
-  background-color: green; 
+  background-color: green;
   padding: 10px;
   width: 520px;
   height: 300px;
@@ -47,8 +47,8 @@ footer{
 	top:1px;
 }
 h2{
-  margin-top: 5px;  
-  text-shadow: 2px 2px gray;  
+  margin-top: 5px;
+  text-shadow: 2px 2px gray;
 }
 ul{
   margin-left: -40px;

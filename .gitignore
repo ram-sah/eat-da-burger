@@ -3,3 +3,4 @@ node_modules
 public/.DS_Store
 views/partials/.DS_Store
 
+.env
